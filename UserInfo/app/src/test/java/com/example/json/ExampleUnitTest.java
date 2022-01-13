@@ -1,4 +1,4 @@
-package com.hust.form;
+package com.example.json;
 
 import org.junit.Test;
 
